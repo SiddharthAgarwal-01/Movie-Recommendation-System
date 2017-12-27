@@ -9,3 +9,10 @@ Cosine Similarity is used as the Distance Metric.
 Dataset is splitted into Train and Test Dataset and the predictions are made considering the whole Dataset so that the predictions can be compared with the Test Dataset for evaluating the performance of both the Models.
 
 Root Mean Squared Error is calculated for evaluating the performance of the Models.
+
+Libraries used:
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Sklearn
